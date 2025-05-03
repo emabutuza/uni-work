@@ -1,0 +1,360 @@
+Stack contains: 
+int v;v=2;print(v)
+
+Dictionary contains: 
+List contains: 
+File Table: 
+
+
+Stack contains: 
+int v
+v=2;print(v)
+
+Dictionary contains: 
+List contains: 
+File Table: 
+
+
+Stack contains: 
+v=2;print(v)
+
+Dictionary contains: v -> 0
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+v=2
+print(v)
+
+Dictionary contains: v -> 0
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+print(v)
+
+Dictionary contains: v -> 2
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+
+Dictionary contains: v -> 2
+
+List contains: 2
+
+File Table: 
+
+
+Stack contains: 
+int a;int b;a=2+3*5;b=a+1;print(b)
+
+Dictionary contains: 
+List contains: 
+File Table: 
+
+
+Stack contains: 
+int a
+int b;a=2+3*5;b=a+1;print(b)
+
+Dictionary contains: 
+List contains: 
+File Table: 
+
+
+Stack contains: 
+int b;a=2+3*5;b=a+1;print(b)
+
+Dictionary contains: a -> 0
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+int b
+a=2+3*5;b=a+1;print(b)
+
+Dictionary contains: a -> 0
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+a=2+3*5;b=a+1;print(b)
+
+Dictionary contains: a -> 0
+b -> 0
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+a=2+3*5
+b=a+1;print(b)
+
+Dictionary contains: a -> 0
+b -> 0
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+b=a+1;print(b)
+
+Dictionary contains: a -> 17
+b -> 0
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+b=a+1
+print(b)
+
+Dictionary contains: a -> 17
+b -> 0
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+print(b)
+
+Dictionary contains: a -> 17
+b -> 18
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+
+Dictionary contains: a -> 17
+b -> 18
+
+List contains: 18
+
+File Table: 
+
+
+Stack contains: 
+int a;int b;a=2;b=3;IF(a<b) THEN{a=3} ELSE{b=4};print(a);print(b)
+
+Dictionary contains: 
+List contains: 
+File Table: 
+
+
+Stack contains: 
+int a
+int b;a=2;b=3;IF(a<b) THEN{a=3} ELSE{b=4};print(a);print(b)
+
+Dictionary contains: 
+List contains: 
+File Table: 
+
+
+Stack contains: 
+int b;a=2;b=3;IF(a<b) THEN{a=3} ELSE{b=4};print(a);print(b)
+
+Dictionary contains: a -> 0
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+int b
+a=2;b=3;IF(a<b) THEN{a=3} ELSE{b=4};print(a);print(b)
+
+Dictionary contains: a -> 0
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+a=2;b=3;IF(a<b) THEN{a=3} ELSE{b=4};print(a);print(b)
+
+Dictionary contains: a -> 0
+b -> 0
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+a=2
+b=3;IF(a<b) THEN{a=3} ELSE{b=4};print(a);print(b)
+
+Dictionary contains: a -> 0
+b -> 0
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+b=3;IF(a<b) THEN{a=3} ELSE{b=4};print(a);print(b)
+
+Dictionary contains: a -> 2
+b -> 0
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+b=3
+IF(a<b) THEN{a=3} ELSE{b=4};print(a);print(b)
+
+Dictionary contains: a -> 2
+b -> 0
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+IF(a<b) THEN{a=3} ELSE{b=4};print(a);print(b)
+
+Dictionary contains: a -> 2
+b -> 3
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+IF(a<b) THEN{a=3} ELSE{b=4}
+print(a);print(b)
+
+Dictionary contains: a -> 2
+b -> 3
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+a=3
+print(a);print(b)
+
+Dictionary contains: a -> 2
+b -> 3
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+print(a);print(b)
+
+Dictionary contains: a -> 3
+b -> 3
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+print(a)
+print(b)
+
+Dictionary contains: a -> 3
+b -> 3
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+print(b)
+
+Dictionary contains: a -> 3
+b -> 3
+
+List contains: 3
+
+File Table: 
+
+
+Stack contains: 
+
+Dictionary contains: a -> 3
+b -> 3
+
+List contains: 3
+3
+
+File Table: 
+
+
+Stack contains: 
+string varf;varf=test.in;openRFile(varf);int varc;readFile(varf, varc);print(varc);readFile(varf, varc);print(varc);closeRFile(varf);
+
+Dictionary contains: 
+List contains: 
+File Table: 
+
+
+Stack contains: 
+string varf
+varf=test.in;openRFile(varf);int varc;readFile(varf, varc);print(varc);readFile(varf, varc);print(varc);closeRFile(varf);
+
+Dictionary contains: 
+List contains: 
+File Table: 
+
+
+Stack contains: 
+varf=test.in;openRFile(varf);int varc;readFile(varf, varc);print(varc);readFile(varf, varc);print(varc);closeRFile(varf);
+
+Dictionary contains: varf -> 
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+varf=test.in
+openRFile(varf);int varc;readFile(varf, varc);print(varc);readFile(varf, varc);print(varc);closeRFile(varf);
+
+Dictionary contains: varf -> 
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+openRFile(varf);int varc;readFile(varf, varc);print(varc);readFile(varf, varc);print(varc);closeRFile(varf);
+
+Dictionary contains: varf -> test.in
+
+List contains: 
+File Table: 
+
+
+Stack contains: 
+openRFile(varf)
+int varc;readFile(varf, varc);print(varc);readFile(varf, varc);print(varc);closeRFile(varf);
+
+Dictionary contains: varf -> test.in
+
+List contains: 
+File Table: 
+
+
