@@ -1,0 +1,11 @@
+101, Badescu Mihai,13,10
+102, Avram Ionut,13,10
+103, Vaxim Raluca,12,9
+104, Popescu Roxana,10,10
+105, Popescu Andrei,9,10
+106, Popescu Marius,8,10
+107, Micu Matei,14,6
+108, Micu Alexia,11,9
+109, Micu Maria,5,8
+110, Marius Ioan,12,6
+111,Otilia Marculescu,10,9
